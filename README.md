@@ -6,7 +6,7 @@
 🔗 [**Kaggle Notebook: Data Exploration with OCI**](https://www.kaggle.com/code/jasperan/01-data-exploration-with-oci)  
 
 > This project does **not** use a pre-existing dataset on Kaggle. Instead, the dataset was **created independently** by leveraging the code and methodology from the linked Kaggle notebook.  
-> The notebook demonstrates how to collect detailed lap-by-lap data of Formula 1 Grand Prix races using a **FastAPI** service ([FastAPI](https://fastapi.tiangolo.com/)) to query and aggregate telemetry and race conditions.
+> The notebook demonstrates how to collect detailed lap-by-lap data of Formula 1 Grand Prix races using **FastF1** API service ([FastF1](https://github.com/theOehrly/Fast-F1)) to query and aggregate telemetry and race conditions.
 
 The final dataset contains rich information about laps, cars, tires, fuel, track and environmental conditions of the 2023 and 2024 seasons, all essential to build predictive models.
 
